@@ -1,3 +1,4 @@
+CREATE DATABASE Toshiro;
 CREATE TABLE dados (
     AlunoID int,
     Nome varchar(50),
